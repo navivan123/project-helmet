@@ -397,3 +397,5 @@ shape = SubResource("ConvexPolygonShape3D_ajtvy")
 
 [node name="entity_10_brush_2_collision_shape" type="CollisionShape3D" parent="QodotMap/entity_10_physics"]
 shape = SubResource("ConvexPolygonShape3D_pi51o")
+
+[node name="Node3D" type="Node3D" parent="."]
