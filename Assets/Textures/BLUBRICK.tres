@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://cmgw5x30ltvb2"]
+
+[ext_resource type="Texture2D" uid="uid://dgjxdi3rlqrgs" path="res://Assets/Textures/BLUBRICK.png" id="1_04jcl"]
+
+[resource]
+albedo_texture = ExtResource("1_04jcl")
+metallic_specular = 0.0
+texture_filter = 2

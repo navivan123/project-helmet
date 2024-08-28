@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://br1mqmq4qr3ua"]
+
+[ext_resource type="Texture2D" uid="uid://baxgpdcv8wo53" path="res://Assets/Textures/GRYBRICK.png" id="1_3vw4k"]
+
+[resource]
+albedo_texture = ExtResource("1_3vw4k")
+metallic_specular = 0.0
+texture_filter = 2

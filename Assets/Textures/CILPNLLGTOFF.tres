@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://baubmq3gjrvqp"]
+
+[ext_resource type="Texture2D" uid="uid://bhjyi8fmp3qp8" path="res://Assets/Textures/CILPNLLGTOFF.png" id="1_ckntj"]
+
+[resource]
+albedo_texture = ExtResource("1_ckntj")
+metallic_specular = 0.0
+texture_filter = 2

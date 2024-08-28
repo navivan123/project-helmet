@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://7li8re1x1rn1"]
+
+[ext_resource type="Texture2D" uid="uid://u8h2rs4upp2i" path="res://Assets/Textures/RSTEK_TRIM_1.png" id="1_kkohk"]
+
+[resource]
+albedo_texture = ExtResource("1_kkohk")
+metallic_specular = 0.0
+texture_filter = 2

@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://b5h4kqay5aued"]
+
+[ext_resource type="Texture2D" uid="uid://d3oqaui03cjde" path="res://Assets/Textures/RDBRICK.png" id="1_eykxh"]
+
+[resource]
+albedo_texture = ExtResource("1_eykxh")
+metallic_specular = 0.0
+texture_filter = 2
